@@ -81,11 +81,3 @@
    }
 }
 ```
-
-## Link
-
-Veja o resultado do projeto [clicando aqui 🔍](https://personal-portfolio-brown-one.vercel.app/)
-
-## Autor
-
-Hiderlan Santana: [Linkedin](https://www.linkedin.com/in/hiderlan-santana/)
